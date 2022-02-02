@@ -12,6 +12,7 @@ ALIVE = "ചത്തിട്ടില്ല മുത്തേ ഇവിടെ
 HELP = "callback_data='help"
 REPO = "https://github.com/zinan100/Ajax"
 CHANNEL = "<a href=https://t.me/moviespot00100>MS UPDATES</a>"
+SETWELCOME = "sorry bro custom welcome baaviyil varum enn pratheekshikkaam"
 # -- Constants End -- #
 
 
@@ -39,7 +40,12 @@ async def repo(_, message):
     await message.reply_text(REPO)
 
 
-@Client.on_message(filters.command("CHANNEL", COMMAND_HAND_LER) & f_onw_fliter)
-async def check_alive(_, message):
+@Client.on_message(filters.command("channel", COMMAND_HAND_LER) & f_onw_fliter)
+async def check_channel(_, message):
     await message.reply_text(CHANNEL)
+
+@Client.on_message(filters.command("setwelcome", COMMAND_HAND_LER) & f_onw_fliter)
+async def check_setwelcome(_, message):
+    await message.reply_text(SETWELCOME)
+
 
