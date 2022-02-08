@@ -1,5 +1,12 @@
-<p align="center">
-  <img src="https://telegra.ph/file/e212be20adfc3be542760.jpg">
+### ROCKY BHAI
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=𝕂𝔼ℝ𝔸𝕃𝔸+𝕊𝔼ℝ;𝗖𝗿𝗲𝗮𝘁𝗲𝗱+𝗕𝘆+𝔽𝕃𝕌𝔽𝔽𝕐 𝕊𝔼ℝ)</p>
+# 𝙲𝙻𝙸𝙲𝙺 𝙱𝙴𝙻𝙾𝚆 𝙸𝙼𝙰𝙶𝙴 𝚃𝙾 𝙳𝙴𝙿𝙻𝙾𝚈 👇
+
+
+[![Deploy](https://telegra.ph/file/e212be20adfc3be542760.jpg)](https://heroku.com/deploy?template=https://github.com/TEAM-FLUFFY/RockyBhaiFilterBot)
+
+
 </p>
 <h1 align="center">
   <b>ᖇOᑕKY ᗷᕼᗩI ᐯ3 ᗷOT</b>
