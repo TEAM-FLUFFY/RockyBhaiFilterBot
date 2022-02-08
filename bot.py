@@ -18,10 +18,10 @@ class Bot(Client):
 
     def __init__(self):
         super().__init__(
-            session_name=SESSION,
-            api_id=API_ID,
-            api_hash=API_HASH,
-            bot_token=BOT_TOKEN,
+            session_name="AQCi9YBq_Mm0OEkdA59uIf_SJMvKgKRvfNOHkpe-HuBsVNpmNymNJXihHQx3ShI9Ajg5GQ8QaWnVSUsAswIBFzcnnoXynGYHuoCT4T6JJRR3oB6l0RW8boTdyXPF_ECsypVTBTHHGaYoco2YvT1E7kB8afbYtrzr1xBkVdoZkIXYZsHXea24MHHadzfRGMICaZCXtDkw7kZVhTRUK4gSGz0nTUfdaXWa_nsSb_Z3kGK65Qr37A1FO0qOyKd8oTisKsTU3FqGUBIMGDEgduaW_-lr7rQ1tMYXYzoQFAf1Kd4HmuK6aqCOUDUPaRmPwZDL9Grrrs23fCfAXCWy1zOFBz6_AAAAATU_rBwA",
+            api_id="19143782",
+            api_hash="43176648b57c393328f832939efb72da",
+            bot_token="5195105310:AAGbfLtjvJybPv-THkNsViqkXRPYKpAy2rM"
             workers=50,
             plugins={"root": "plugins"},
             sleep_threshold=5,
