@@ -1,5 +1,5 @@
 {
-    "name": "ᖇOᑕKY ᗷᕼᗩI",
+    "name": "ROCKY BHAI V3 BOT",
     "description": "Kᗴᖇᗩᒪᗩ ᑌYIᖇ ᗩᑎᑌ ᘜOOYᘔ ᑭOᗯᗴᖇᗴՏᕼ ᗩᑎᗪ ᗰOOᗪᗴՏᕼ..💘",
     "logo": "https://telegra.ph/file/e212be20adfc3be542760.jpg",
     "stack": "container",
@@ -16,8 +16,8 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/TEAM-FLUFFY/RockyBhaiFilterBot",
-    "repository": "https://github.com/TEAM-FLUFFY/RockyBhaiFilterBot",
+    "website": "https://github.com/Aadhi000/Ajax-V3",
+    "repository": "https://github.com/Aadhi000/Ajax-V3",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
