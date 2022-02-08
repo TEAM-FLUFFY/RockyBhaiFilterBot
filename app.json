@@ -16,8 +16,8 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/Aadhi000/Ajax-V3",
-    "repository": "https://github.com/Aadhi000/Ajax-V3",
+    "website": "https://github.com/TEAM-FLUFFY/RockyBhaiFilterBot",
+    "repository": "https://github.com/TEAM-FLUFFY/RockyBhaiFilterBot",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
